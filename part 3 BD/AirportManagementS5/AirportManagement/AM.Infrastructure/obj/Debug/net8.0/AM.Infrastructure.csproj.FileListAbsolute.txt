@@ -1,0 +1,32 @@
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.deps.json
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infra.6BD442B8.Up2Date
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\refint\AM.Infrastructure.dll
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\Amina\Downloads\AirportManagementS4 (1)\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\ref\AM.Infrastructure.dll
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.deps.json
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infra.6BD442B8.Up2Date
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\refint\AM.Infrastructure.dll
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\HP\Desktop\.NET\revision\part 3 BD\AirportManagementS5\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\ref\AM.Infrastructure.dll

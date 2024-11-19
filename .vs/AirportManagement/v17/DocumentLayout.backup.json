@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\.NET\\revision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640ECAF4-D9D1-44A3-ABDE-33B655A8B50F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640ECAF4-D9D1-44A3-ABDE-33B655A8B50F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hp\\desktop\\.net\\revision\\am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32EA5D4A-CE51-4B72-941E-90CB238D4B51}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:34:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:35:58.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:45:27.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:41:12.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:40:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:06:03.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:05:48.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:05:00.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "plane.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\plane.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\Domain\\plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\plane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:04:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AM.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\.NET\\revision\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeToolTip": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T16:03:54.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
